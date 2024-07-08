@@ -1,5 +1,6 @@
 # Social-Foraging-Swarms-Behaviour-onto-different-profiles
-![image](https://github.com/giuseppedipoce/Social-Foraging-Swarms-Behaviour-onto-different-profiles/assets/114066138/9069d3fa-a1e1-43fe-aba8-954bd2954a5a)
+![image](https://github.com/giuseppedipoce/Social-Foraging-Swarms-Behaviour-onto-different-profiles/assets/114066138/a9ea6fe4-aab7-4dd9-9541-3b401702f287)
+
 
 #  About the project:
 In this repository we specify an M-member “individual-based” continuous time swarm model with individuals that
