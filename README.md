@@ -1,6 +1,6 @@
 # Social-Foraging-Swarms-Behaviour-onto-different-profiles
 #  Introduction
-In this article we specify an M-member “individual-based” continuous time swarm model with individuals that
+In this repository we specify an M-member “individual-based” continuous time swarm model with individuals that
 move in an n-dimensional space according to an attractant/repellent or a nutrient profile. The motion of each individual is determined by three factors: \
 (i) attraction to the other individuals on long distances;\
 (ii) repulsion from the other individuals on short distances;\
