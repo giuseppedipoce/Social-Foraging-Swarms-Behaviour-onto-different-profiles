@@ -1,5 +1,7 @@
 # Social-Foraging-Swarms-Behaviour-onto-different-profiles
-#  About the prpject:
+![image](https://github.com/giuseppedipoce/Social-Foraging-Swarms-Behaviour-onto-different-profiles/assets/114066138/9069d3fa-a1e1-43fe-aba8-954bd2954a5a)
+
+#  About the project:
 In this repository we specify an M-member “individual-based” continuous time swarm model with individuals that
 move in an n-dimensional space according to an attractant/repellent or a nutrient profile. The motion of each individual is determined by three factors: \
 (i) attraction to the other individuals on long distances;\
